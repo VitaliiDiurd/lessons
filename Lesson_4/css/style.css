@@ -1,0 +1,79 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,300;1,900&display=swap');
+
+@font-face {
+   font-family: "Larsseit";
+   src: url(../fonts/Larsseit-Regular.woff2)format("woff2"), url(../fonts/Larsseit-Regular.woff)format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Lato";
+   src: url(../fonts/Lato-Black.woff2)format("woff2"), url(../fonts/Lato-Black.woff)format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Lato";
+   src: url(../fonts/Lato-Bold.woff2)format("woff2"), url(../fonts/Lato-Bold.woff)format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Lato";
+   src: url(../fonts/Lato-Regular.woff2)format("woff2"), url(../fonts/Lato-Regular.woff)format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+.block{
+   font-family:"Roboto" ;
+   font-weight: 300;
+   font-style: italic;
+}
+
+h2{
+   font-family: "Lato";
+   font-weight: 900;
+   font-style: normal;
+}
+
+body {
+   font-family: "Larsseit";
+}
+
+
+* {
+   color: black;
+	
+}
+h2 {
+   color: peru;
+}
+
+h3 {
+   color: rgb(187, 146, 14);
+}
+
+a {
+   color: rgb(255, 174, 0);
+}
+
+.miss a{
+	color: rgb(206, 180, 141);
+}
+
+p {
+   color: rgb(131, 94, 16);
+}
+
+
